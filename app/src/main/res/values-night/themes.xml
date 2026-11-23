@@ -1,7 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Philidor" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/vert_clair</item>
+        <item name="colorOnPrimary">@color/vert_nuit</item>
+        <item name="colorSecondaryContainer">@color/vert_sombre</item>
+        <item name="colorOnSecondaryContainer">@color/vert_tres_pale</item>
     </style>
 </resources>

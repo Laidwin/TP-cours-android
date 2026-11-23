@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="vert">#FF1E7F4F</color>
+    <color name="vert_pale">#FFE3F2EA</color>
+    <color name="vert_fonce">#FF0B3D25</color>
+
+    <color name="vert_clair">#FF7FD3A6</color>
+    <color name="vert_nuit">#FF003920</color>
+    <color name="vert_sombre">#FF1E4D35</color>
+    <color name="vert_tres_pale">#FFC8EBD6</color>
 </resources>
