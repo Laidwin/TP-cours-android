@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    private double creativite() {
-        return Math.round(binding.creativite.getValue() * 10) / 10.0;
+    private float creativite() {
+        return binding.creativite.getValue();
     }
 }

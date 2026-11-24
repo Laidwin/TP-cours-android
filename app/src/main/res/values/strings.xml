@@ -20,4 +20,24 @@
     <string name="partie_creativite">Créativité de Philidor : %1$.1f</string>
 
     <string name="historique_titre">Historique</string>
+    <string name="victoire">Victoire</string>
+    <string name="defaite">Défaite</string>
+    <string name="nulle">Nulle</string>
+    <string name="initiale_victoire">V</string>
+    <string name="initiale_defaite">D</string>
+    <string name="initiale_nulle">N</string>
+    <string name="fin_mat">mat</string>
+    <string name="fin_pat">pat</string>
+    <string name="fin_abandon">abandon</string>
+    <string name="partie_couleur_jouee">· %1$s</string>
+    <string name="partie_details">%1$s · %2$d coups · %3$s</string>
+    <string name="roi_blanc">♔</string>
+    <string name="roi_noir">♚</string>
+    <string name="symbole_tour">♜</string>
+    <string name="aucune_partie">Aucune partie jouée</string>
+    <string name="aucune_partie_detail">Lancez une partie depuis l\'accueil.</string>
+    <string name="suppression_titre">Supprimer cette partie ?</string>
+    <string name="suppression_message">Elle sera retirée de l\'historique.</string>
+    <string name="annuler">Annuler</string>
+    <string name="supprimer">Supprimer</string>
 </resources>
