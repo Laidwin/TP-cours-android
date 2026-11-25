@@ -1,4 +1,4 @@
-package fr.mines.philidor;
+package fr.mines.philidor.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,6 +11,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 import java.util.Random;
 
+import fr.mines.philidor.R;
 import fr.mines.philidor.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {

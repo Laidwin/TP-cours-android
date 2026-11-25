@@ -1,4 +1,4 @@
-package fr.mines.philidor;
+package fr.mines.philidor.activity;
 
 import android.os.Bundle;
 
@@ -15,8 +15,11 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.List;
 
+import fr.mines.philidor.PartieJouee;
 import fr.mines.philidor.PartieJouee.Fin;
 import fr.mines.philidor.PartieJouee.Resultat;
+import fr.mines.philidor.R;
+import fr.mines.philidor.adapter.PartieAdapter;
 import fr.mines.philidor.databinding.ActivityHistoriqueBinding;
 
 public class HistoriqueActivity extends AppCompatActivity {

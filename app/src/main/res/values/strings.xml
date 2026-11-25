@@ -15,9 +15,18 @@
     <string name="nouvelle_partie">Nouvelle partie</string>
     <string name="historique_des_parties">Historique des parties</string>
 
-    <string name="partie_titre">Partie</string>
-    <string name="partie_couleur">Vous jouez les %1$s</string>
-    <string name="partie_creativite">Créativité de Philidor : %1$.1f</string>
+    <string name="partie_adversaire_details">%1$s · créativité %2$.1f</string>
+    <string name="vous">Vous</string>
+    <string name="symboles_pieces">♔♕♖♗♘♙♚♛♜♝♞♟</string>
+    <string name="statut_trait">Aux %1$s de jouer</string>
+    <string name="statut_echec">Échec !</string>
+    <string name="statut_mat">Échec et mat : les %1$s gagnent</string>
+    <string name="statut_pat">Pat : partie nulle</string>
+    <string name="statut_nulle_materiel">Nulle : matériel insuffisant</string>
+    <string name="statut_nulle_50_coups">Nulle : règle des 50 coups</string>
+    <string name="statut_nulle_repetition">Nulle : triple répétition</string>
+    <string name="numero_coup">%1$d. </string>
+    <string name="aucun_coup">Aucun coup joué</string>
 
     <string name="historique_titre">Historique</string>
     <string name="victoire">Victoire</string>

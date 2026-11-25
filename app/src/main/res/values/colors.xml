@@ -14,4 +14,10 @@
 
     <color name="rouge">#FFC0392B</color>
     <color name="gris">#FF8FA3B8</color>
+
+    <color name="case_claire">#FFEEEED2</color>
+    <color name="case_foncee">#FF769656</color>
+    <color name="case_dernier_coup">#FFCDD26A</color>
+    <color name="case_selection">#FFF7D26B</color>
+    <color name="indication_coup">#40000000</color>
 </resources>
